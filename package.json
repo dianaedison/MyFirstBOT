@@ -1,0 +1,26 @@
+{
+  "name": "myfirstbotapp",
+  "version": "1.0.0",
+  "description": "Build a BOT in Node.js on Microsoft BOT framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianaedison/MyFirstBOT.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Diana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianaedison/MyFirstBOT/issues"
+  },
+  "homepage": "https://github.com/dianaedison/MyFirstBOT#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
